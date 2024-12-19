@@ -95,13 +95,13 @@ Here are some images and videos of the app:
 ### Create Note Screen
 <img src="https://github.com/user-attachments/assets/94b1d4d5-76e1-44c5-957d-938ed95fb19c" width=250px>
 <img src="https://github.com/user-attachments/assets/59404b4b-1baf-4ff6-a536-6694198fa19b" width=250px>
-<img src=https://github.com/user-attachments/assets/3b4815d4-8868-4f15-97c1-d89b7cd77f17" width=250px>
+<img src="https://github.com/user-attachments/assets/3b4815d4-8868-4f15-97c1-d89b7cd77f17" width=250px>
 <img src="https://github.com/user-attachments/assets/b73a03df-0ac3-4e51-b393-0a60134d063f" width=250px>
 
 ### Notes List
 <img src="https://github.com/user-attachments/assets/d1bafe58-9ccf-4fc4-b8b3-3532a56c42cf" width=250px>
 <img src="https://github.com/user-attachments/assets/649e11a3-bcfa-470b-a4db-817e5ddc90ef" width=250px>
-<img src="" width=250px>
+
 
 ### Details Screen
 <img src="https://github.com/user-attachments/assets/df2bb483-68af-43e6-a1be-277804f1be96" width=250px>
